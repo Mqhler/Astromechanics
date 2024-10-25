@@ -1,36 +1,36 @@
 Property,Value
-Attitude,<POINTER(IAgVeAttitude) ptr=0x151dc882528 at 151de5c72d0>
+Attitude,<POINTER(IAgVeAttitude) ptr=0x24bc435e318 at 24bc60971d0>
 AttitudeSupportedTypes,"((1, 'Real Time'), (2, 'Standard'))"
 AttitudeType,2
 CentralBodyName,Earth
 ClassName,Satellite
 ClassType,18
-EclipseBodies,<POINTER(IAgVeEclipseBodies) ptr=0x151dc882728 at 151de5c72d0>
-ExportTools,<POINTER(IAgSaExportTools) ptr=0x151dc885f28 at 151de5c7350>
-Graphics,<POINTER(IAgSaGraphics) ptr=0x151dc885a28 at 151de5c72d0>
+EclipseBodies,<POINTER(IAgVeEclipseBodies) ptr=0x24bc435f298 at 24bc60971d0>
+ExportTools,<POINTER(IAgSaExportTools) ptr=0x24bc435c718 at 24bc6097250>
+Graphics,<POINTER(IAgSaGraphics) ptr=0x24bc435bb18 at 24bc60971d0>
 HasBeenDeleted,False
 HasChildren,False
-InstanceName,MySat
+InstanceName,Satellite5
 LightingMaxStep,30.0
 LongDescription,
-MassProperties,<POINTER(IAgVeMassProperties) ptr=0x151db844888 at 151de5c72d0>
-ObjectCoverage,<POINTER(IAgStkObjectCoverage) ptr=0x151dc885ea8 at 151de5c7350>
-ObjectFiles,"('C:\\Users\\graye\\OneDrive\\Documents\\STK 12\\STK_Connect\\MySat.sa', 'C:\\Users\\graye\\OneDrive\\Documents\\STK 12\\STK_Connect\\MySat.sa3', 'C:\\Program Files\\AGI\\STK 12\\STKData\\VO\\Models\\Space\\satellite.glb', 'C:\\Program Files\\AGI\\STK 12\\STKData\\VO\\Textures\\milkyway.jpg')"
-Parent,<POINTER(IAgStkObject) ptr=0x151dc882128 at 151de5c7350>
-PassBreak,<POINTER(IAgVePassBreak) ptr=0x151dc8829a8 at 151de5c72d0>
-Path,/Application/STK/Scenario/STK_Connect/Satellite/MySat
-Propagator,<POINTER(IAgVePropagator) ptr=0x151dc8842a8 at 151de5c72d0>
+MassProperties,<POINTER(IAgVeMassProperties) ptr=0x24bc8ed57b8 at 24bc60971d0>
+ObjectCoverage,<POINTER(IAgStkObjectCoverage) ptr=0x24bc435ca98 at 24bc6097250>
+ObjectFiles,"('C:\\Users\\graye\\OneDrive\\Documents\\STK 12\\Scenario1\\Satellite5.sa', 'C:\\Users\\graye\\OneDrive\\Documents\\STK 12\\Scenario1\\Satellite5.sa3', 'C:\\Program Files\\AGI\\STK 12\\STKData\\VO\\Models\\Space\\hubble.mdl')"
+Parent,<POINTER(IAgStkObject) ptr=0x24bc435e798 at 24bc6097250>
+PassBreak,<POINTER(IAgVePassBreak) ptr=0x24bc435ed98 at 24bc60971d0>
+Path,/Application/STK/Scenario/Scenario1/Satellite/Satellite5
+Propagator,<POINTER(IAgVePropagator) ptr=0x24bc435c118 at 24bc60971d0>
 PropagatorSupportedTypes,"((16, '11Parameter'), (12, 'Astrogator'), (14, 'GPS'), (0, 'HPOP'), (1, 'J2Perturbation'), (2, 'J4Perturbation'), (3, 'LOP'), (13, 'RealTime'), (4, 'SGP4'), (17, 'SP3'), (5, 'SPICE'), (6, 'StkExternal'), (7, 'TwoBody'), (8, 'UserExternal'))"
-PropagatorType,7
-RadarClutterMap,<POINTER(IAgRadarClutterMapInheritable) ptr=0x151dc882ca8 at 151de5c72d0>
-RadarCrossSection,<POINTER(IAgRadarCrossSectionInheritable) ptr=0x151dc885028 at 151de5c73d0>
-ReferenceVehicle,<POINTER(IAgLinkToObject) ptr=0x151dc885328 at 151de5c7650>
-Root,<POINTER(IAgStkObjectRoot) ptr=0x151dc8834a8 at 151de5c73d0>
+PropagatorType,12
+RadarClutterMap,<POINTER(IAgRadarClutterMapInheritable) ptr=0x24bc435ea98 at 24bc60971d0>
+RadarCrossSection,<POINTER(IAgRadarCrossSectionInheritable) ptr=0x24bc435cc98 at 24bc60972d0>
+ReferenceVehicle,<POINTER(IAgLinkToObject) ptr=0x24bc435d198 at 24bc60973d0>
+Root,<POINTER(IAgStkObjectRoot) ptr=0x24bc8ed3d38 at 24bc60972d0>
 ShortDescription,
-SpaceEnvironment,<POINTER(IAgVeSpEnvSpaceEnvironment) ptr=0x151dc885ba8 at 151de5c73d0>
+SpaceEnvironment,<POINTER(IAgVeSpEnvSpaceEnvironment) ptr=0x24bc435d718 at 24bc60972d0>
 UseTerrainInLightingComputations,False
-VO,<POINTER(IAgSaVO) ptr=0x151dc8838a8 at 151de5c73d0>
-Vgt,<POINTER(IAgCrdnProvider) ptr=0x151dc885028 at 151de5c76d0>
+VO,<POINTER(IAgSaVO) ptr=0x24bc435c518 at 24bc60972d0>
+Vgt,<POINTER(IAgCrdnProvider) ptr=0x24bc435f418 at 24bc6097550>
 _b_base_,
 _b_needsfree_,1
 _case_insensitive_,True
@@ -40,4 +40,4 @@ _methods_,"[_ComMemberSpec(restype=<class 'ctypes.HRESULT'>, name='_get_Propagat
 _needs_com_addref_,
 _objects,
 _type_,P
-value,<POINTER(_IAgSatellite) ptr=0x151dc94a578 at 151de5c7050>
+value,<POINTER(_IAgSatellite) ptr=0x24bc4451048 at 24bc6096d50>
