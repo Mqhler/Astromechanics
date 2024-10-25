@@ -1195,5 +1195,5 @@
     "_needs_com_addref_": "Error serializing value: isinstance() arg 2 must be a type, a tuple of types, or a union",
     "_objects": "Error serializing value: isinstance() arg 2 must be a type, a tuple of types, or a union",
     "_type_": "Error serializing value: isinstance() arg 2 must be a type, a tuple of types, or a union",
-    "value": "<POINTER(_IAgSatellite) ptr=0x1fc0868e3b8 at 1fc0a2f30d0>"
+    "value": "<POINTER(_IAgSatellite) ptr=0x14414283b38 at 14415ef30d0>"
 }
