@@ -2,5 +2,5 @@
     "InstanceName": "MySat",
     "ClassName": "Satellite",
     "Path": "/Application/STK/Scenario/STK_Connect/Satellite/MySat",
-    "Error": "[WinError -2147221005] Invalid class string"
+    "Error": "[WinError -2147312566] Error loading type library/DLL"
 }
