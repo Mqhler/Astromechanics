@@ -1,5 +1,5 @@
 {
-    "InstanceName": "MyFacility_Con",
-    "ClassName": "Facility",
-    "Path": "/Application/STK/Scenario/STK_Connect/Facility/MyFacility_Con"
+    "InstanceName": "MySat",
+    "ClassName": "Satellite",
+    "Path": "/Application/STK/Scenario/STK_Connect/Satellite/MySat"
 }
