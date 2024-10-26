@@ -1,5 +1,6 @@
 {
     "InstanceName": "RPO",
     "ClassName": "Satellite",
-    "Path": "/Application/STK/Scenario/Orbit/Satellite/RPO"
+    "Path": "/Application/STK/Scenario/Orbit/Satellite/RPO",
+    "Properties": {}
 }
