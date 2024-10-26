@@ -1,6 +1,5 @@
 {
-    "InstanceName": "RPO",
-    "ClassName": "Satellite",
-    "Path": "/Application/STK/Scenario/Orbit/Satellite/RPO",
-    "MissionData": {}
+    "InstanceName": "Aircraft1",
+    "ClassName": "Aircraft",
+    "Path": "/Application/STK/Scenario/Orbit/Aircraft/Aircraft1"
 }
