@@ -1,0 +1,14 @@
+{
+    "ObjectName": "Satellite1",
+    "FilePath": "C:/Users/graye/OneDrive/Documents/STK 12\\Scenario3\\Satellite1.sa",
+    "SampleData": {
+        "LineCount": 9005,
+        "FirstLines": [
+            "stk.v.12.0\n",
+            "WrittenBy    STK_v12.2.0\n",
+            "\n",
+            "BEGIN Satellite\n",
+            "\n"
+        ]
+    }
+}
